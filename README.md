@@ -4,7 +4,7 @@
 For this challenge, I have a built a test framework solution using a BDD approach.
 I have implemented POM design patterns, and followed OOP principles to reduce code duplication.
 
-Included in the test project is 1 Feature File ("ShoppingCart.feature") and 1 corresponding StepDefiniton File ("ShoppingCartStepDefinitoins.cs") for the automation of the scenario indicated in the task.
+Included in the test project is 1 Feature File ("ShoppingCart.feature") and 1 corresponding StepDefiniton File ("ShoppingCartStepDefinitions.cs") for the automation of the scenario indicated in the task.
 
 *Packages used:* 
 - ExtentReports
